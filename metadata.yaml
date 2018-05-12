@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35362'
     url: http://www.gutenberg.org/2009/agents/35362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31616#Health-Lessons-Book-1
 gutenberg_issued: '2010-03-13'
 gutenberg_type: Text
 identifiers:
